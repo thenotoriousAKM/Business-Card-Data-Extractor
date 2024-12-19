@@ -36,7 +36,7 @@ The API Keys and the Connection String have been replaced for security reasons, 
 - We will be comparing the cards used along with the info that was stored in the database, please refer the Outcomes folder, it has the side-by-side comparison of the card and what is stored in the database.
 
 ## Precautions
-- The image that is used must be taken must be zoomed-in,especially if there is fancy text on the cards.
+- The image that is used must be be zoomed-in,especially if there is fancy text on the cards.
 - This is dependent on the Gemini 1.5 Flash Generative Model API,it can be bought or used for free for 5 months from Google CLoud, This entire testing cost me only .42rs.
 
 ## License
