@@ -1,7 +1,7 @@
 # Card Data Extractor
 
 ## Overview 
-This project demonstrates a pipeline that extracts information from cards (ID,Business Card, Govt Cards), classfies it based on card details, pre-processes it into json format and finally stores it into a database.
+This project demonstrates a pipeline that extracts information from cards (ID,Business Card, Govt Cards), classifies it based on card details, pre-processes it into json format and finally stores it into a database.
 
 ##### Note:
 The API Keys and the Connection String have been replaced for security reasons, please use your own.
