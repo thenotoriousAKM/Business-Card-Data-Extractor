@@ -33,7 +33,7 @@ The API Keys and the Connection String have been replaced for security reasons, 
 - Once that is done you can direcly call the function "card_reader_final" along with your image location to add the information to your MongoDB database.
 
 ## Outcomes
-- We will be comparing the cards used along with the info that was stored in the database, please refer the Outcomes folder, it has the side-by-side comparison of the card and what is stored in the database.
+- We will be comparing the cards used along with the info that was stored in the database, please refer the [Outcomes](./Outcomes/) folder, it has the side-by-side comparison of the card and what is stored in the database.
 
 ## Precautions
 - The image that is used must be be zoomed-in, especially if there is fancy text on the cards.
