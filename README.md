@@ -37,7 +37,7 @@ The API Keys and the Connection String have been replaced for security reasons, 
 
 ## Precautions
 - The image that is used must be be zoomed-in, especially if there is fancy text on the cards.
-- This is dependent on the Gemini 1.5 Flash Generative Model API,it can be bought or used for free for 5 months from Google CLoud, This entire testing cost me only .42rs.
+- This is dependent on the Gemini 1.5 Flash Generative Model API,it can be bought or used for free for 5 months from Google Cloud, This entire testing cost me only .42rs.
 
 ## License
 This project is licensed under the terms & conditions (T&Cs) of the Apache License 2.0. If you're interested in reading more about it, please take a look at the [LICENSE](./LICENSE) document.
